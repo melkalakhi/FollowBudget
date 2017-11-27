@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FollowBudget.model", "FollowBudget.model\FollowBudget.model.csproj", "{6CD1ED6F-4D32-4650-8289-14AD61455A37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FollowBudget.Test.model", "Test.FollowBudget.model\FollowBudget.Test.model.csproj", "{DC5D3E96-6B8E-4754-9325-46FCA7E43650}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CD1ED6F-4D32-4650-8289-14AD61455A37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CD1ED6F-4D32-4650-8289-14AD61455A37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CD1ED6F-4D32-4650-8289-14AD61455A37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CD1ED6F-4D32-4650-8289-14AD61455A37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC5D3E96-6B8E-4754-9325-46FCA7E43650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC5D3E96-6B8E-4754-9325-46FCA7E43650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC5D3E96-6B8E-4754-9325-46FCA7E43650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC5D3E96-6B8E-4754-9325-46FCA7E43650}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
